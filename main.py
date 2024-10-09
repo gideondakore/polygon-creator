@@ -24,3 +24,6 @@ while size <= 10:
     size += 1
     tim.color(random.choice(turt_colors))
 
+
+screen = Screen()
+screen.exitonclick()
